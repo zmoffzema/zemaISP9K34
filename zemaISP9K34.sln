@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zemaISP9K34", "zemaISP9K34\zemaISP9K34.csproj", "{327D32C9-DBC2-4E6D-9BF8-D32C06F69BD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327D32C9-DBC2-4E6D-9BF8-D32C06F69BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327D32C9-DBC2-4E6D-9BF8-D32C06F69BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327D32C9-DBC2-4E6D-9BF8-D32C06F69BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327D32C9-DBC2-4E6D-9BF8-D32C06F69BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B922380A-44E5-4466-938D-0AA4C06D9064}
+	EndGlobalSection
+EndGlobal
